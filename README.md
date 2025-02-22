@@ -1,1 +1,1 @@
-# Astrolytics-Where-astronomy-meets-analytics.
+# Astrolytics-Where_astronomy_meets_analytics.
